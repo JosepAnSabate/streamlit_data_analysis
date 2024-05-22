@@ -62,8 +62,6 @@ def interactive_map(dataframe):
     st.plotly_chart(fig)
 
 
-    
-
 
 st.title('Earthquake Data Explorer')
 st.text('This is a web app to explore Earthquake datasets')
